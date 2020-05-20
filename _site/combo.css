@@ -530,14 +530,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-updating { border-color: #c869bf; }
-  #updating { background-color: #c869bf !important; color: #f8f8f8; }
-  #updating a { color: #f8f8f8; }
-  #updating .sectiondivider { color: #c869bf; }
-
-  
-  
-  
   nav .p-about us { border-color: #f8f8f8; }
   #about us { background-color: #f8f8f8 !important; color: #111111; }
   #about us a { color: #111111; }
