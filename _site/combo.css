@@ -365,6 +365,16 @@ span.lineno {
 .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
 
+/* Custom CSS */
+.menuContainer {
+	display: flex; 
+	flex-direction: row;
+}
+
+.menuItem {
+	padding: 2px;
+}
+
 
 /* -----------------------------------*/
 /* ----- 960px wide fancy grid! ----- */
@@ -529,26 +539,26 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-details { border-color: #fab125; }
-  #details { background-color: #fab125 !important; color: #111111; }
-  #details a { color: #111111; }
-  #details .sectiondivider { color: #fab125; }
+  nav .p-about us { border-color: #fab125; }
+  #about us { background-color: #fab125 !important; color: #111111; }
+  #about us a { color: #111111; }
+  #about us .sectiondivider { color: #fab125; }
 
   
   
   
-  nav .p-why { border-color: #49a7e9; }
-  #why { background-color: #49a7e9 !important; color: #f8f8f8; }
-  #why a { color: #f8f8f8; }
-  #why .sectiondivider { color: #49a7e9; }
+  nav .p-menu { border-color: Red; }
+  #menu { background-color: Red !important; color: #f8f8f8; }
+  #menu a { color: #f8f8f8; }
+  #menu .sectiondivider { color: Red; }
 
   
   
   
-  nav .p-intro { border-color: #000000; }
-  #intro { background-color: #000000 !important; color: #111111; }
-  #intro a { color: #111111; }
-  #intro .sectiondivider { color: #000000; }
+  nav .p-home { border-color: #000000; }
+  #home { background-color: #000000 !important; color: #111111; }
+  #home a { color: #111111; }
+  #home .sectiondivider { color: #000000; }
 
 
 
