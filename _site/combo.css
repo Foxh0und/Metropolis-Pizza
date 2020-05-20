@@ -375,6 +375,13 @@ span.lineno {
 	padding: 2px;
 }
 
+iframe {
+	border: 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 
 /* -----------------------------------*/
 /* ----- 960px wide fancy grid! ----- */
@@ -531,18 +538,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-usage { border-color: #63BD2F; }
-  #usage { background-color: #63BD2F !important; color: #f8f8f8; }
-  #usage a { color: #f8f8f8; }
-  #usage .sectiondivider { color: #63BD2F; }
-
-  
-  
-  
-  nav .p-about us { border-color: #fab125; }
-  #about us { background-color: #fab125 !important; color: #111111; }
+  nav .p-about us { border-color: #f8f8f8; }
+  #about us { background-color: #f8f8f8 !important; color: #111111; }
   #about us a { color: #111111; }
-  #about us .sectiondivider { color: #fab125; }
+  #about us .sectiondivider { color: #f8f8f8; }
 
   
   

@@ -374,3 +374,10 @@ span.lineno {
 .menuItem {
 	padding: 2px;
 }
+
+iframe {
+	border: 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
