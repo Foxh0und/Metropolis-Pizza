@@ -5,7 +5,7 @@ color: green
 style: center
 fa-icon: truck
 ---
-  <a href="img/traditionalMenu.jpg">
+  <a href="https://www.menulog.com.au/restaurants-metropolis-pizza">
     <img src="img/menulog.png" >
   </a>
   <a href="https://www.ubereats.com/au/melbourne/food-delivery/metropolis-pizza/8XZfVZwmRc2BZrDTOChGFw">
