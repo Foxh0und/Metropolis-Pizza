@@ -375,9 +375,13 @@ span.lineno {
 	padding: 2px;
 }
 
-iframe {
-	border: 0;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+.dualImageContainer {
+	display: flex; 
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.imageItem {
+	padding:5px;
 }
