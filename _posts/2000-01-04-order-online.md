@@ -1,7 +1,7 @@
 ---
 title: "Order Online"
-bg: green
-color: green
+bg: red
+color: red
 style: center
 fa-icon: truck
 ---
